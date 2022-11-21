@@ -1,0 +1,11 @@
+{"produtos":[
+    {"id":1, "descrição": "Molho", "tab1": 8, "tab2": 9, "venda7d": 70, "venda15d": 150, "venda30d": 230},
+    {"id":2, "descrição": "Macarrão N1", "tab1": 8, "tab2": 9, "venda7d": 10, "venda15d": 15, "venda30d": 28},
+    {"id":3, "descrição": "Macarrão N2", "tab1": 8, "tab2": 9, "venda7d": 10, "venda15d": 20, "venda30d": 34},
+    {"id":4, "descrição": "Macarrão N3", "tab1": 8, "tab2": 9, "venda7d": 10, "venda15d": 30, "venda30d": 57},
+    {"id":5, "descrição": "Torrada Alho", "tab1": 10,"tab2": 11, "venda7d": 5, "venda15d": 12, "venda30d": 21},
+    {"id":6, "descrição": "Torrada Cebola", "tab1": 10,"tab2": 11, "venda7d": 5, "venda15d": 13, "venda30d": 23},
+    {"id":7, "descrição": "Pastel 1kg", "tab1": 8, "tab2": 10, "venda7d": 30, "venda15d": 60, "venda30d": 89},
+    {"id":8, "descrição": "Pastel 500g", "tab1": 4, "tab2": 5, "venda7d": 48, "venda15d": 102, "venda30d": 198},
+    {"id":9, "descrição": "Nhoque", "tab1": 15, "tab2": 18, "venda7d": 10, "venda15d": 31, "venda30d": 48}
+]}
